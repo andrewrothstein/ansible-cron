@@ -15,4 +15,3 @@
   package:
     name: '{{ cron_os_pkgs }}'
     state: present
-
